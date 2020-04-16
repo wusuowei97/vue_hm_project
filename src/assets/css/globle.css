@@ -1,0 +1,13 @@
+/* 头部颜色 样式 */
+.van-nav-bar {
+  background-color: #1989fa;
+}
+.van-nav-bar .van-icon {
+  color: white;
+}
+.van-nav-bar__title {
+  color: white;
+}
+.van-nav-bar__text {
+  color: white;
+}

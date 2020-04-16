@@ -1,16 +1,13 @@
 <template>
-  <div class="">
-    <h2>home page</h2>
-  </div>
+  <div class=""></div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
+  name: 'Shop',
   data() {
     return {}
-  },
-  props: {}
+  }
 }
 </script>
 

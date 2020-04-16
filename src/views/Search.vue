@@ -1,16 +1,15 @@
 <template>
   <div class="">
-    <h2>home page</h2>
+    <h2>search page</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
+  name: 'Search',
   data() {
     return {}
-  },
-  props: {}
+  }
 }
 </script>
 

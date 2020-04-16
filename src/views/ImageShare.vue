@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <h2>home page</h2>
+    <h2>image share page</h2>
   </div>
 </template>
 

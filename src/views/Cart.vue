@@ -1,16 +1,15 @@
 <template>
   <div class="">
-    <h2>home page</h2>
+    <h2>shop cart page</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
+  name: 'Cart',
   data() {
     return {}
-  },
-  props: {}
+  }
 }
 </script>
 
